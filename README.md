@@ -1,16 +1,32 @@
-### Hi there 👋
+<hi align="center">oi 👋, Eu sou Andersonpinaj1</h1>
+<h3 align="center">Um cientista de dados apaixonado por compartilhar conhecimento</h3>
 
-<!--
-**Andersonpinaj1/Andersonpinaj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯Eu procuro colaborar em **projeto de ciência de dados, analise de dados e IA**
+- 👨‍💻 todos os meus projetos estão disponiveis em [https://github.com/Andersonpinaj1](https://github.com/Andersonpinaj1)
+- ❔ me pergunte sobre **tecnologia, ciência de dados, analise de dados, e etc; ficarei feliz em ajudar**
+- 📫 fale comigo **andersonpinajr@gmail.com**
+- 📄 saiba mais sobre mim em [https://www.linkedin.com/in/anderson-pina-93955b22a/](https://www.linkedin.com/in/anderson-pina-93955b22a/)
 
-Here are some ideas to get you started:
+<details>
+  <summary><b>🛠️Algumas linguagens e ferramentas que eu uso</b></summary>
+  <br/>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</details>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonpinaj1&show_icons=true&locale=en&layout=compact" alt="andersonpinaj1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonpinaj1&show_icons=true&locale=en" alt="andersonpinaj1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonpinaj1&" alt="andersonpinaj1" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andersonpinaj1&label=Profile%20views&color=0e75b6&style=flat" alt="andersonpinaj1" /> </p>
+
+<h3 align="left">Entre em contato comigo:</h3>
+<p align="left">
+<a href="https://twitter.com/@andersonpinaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andersonpinaj1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anderson pina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anderson pina" height="30" width="40" /></a>
+<a href="https://kaggle.com/andersonpina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andersonpina" height="30" width="40" /></a>
+<a href="https://instagram.com/andersonpina.j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andersonpina.j" height="30" width="40" /></a>
+</p>
