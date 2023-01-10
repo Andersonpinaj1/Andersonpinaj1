@@ -1,5 +1,15 @@
-<hi align="center">oi 👋, Eu sou Andersonpinaj1</h1>
-<h3 align="center">Um cientista de dados apaixonado por compartilhar conhecimento</h3>
+<p align="center">
+  <img src="https://github.com/Andersonpinaj1/Andersonpinaj1/raw/main/assets/header-github.gif" alt="Oi eu sou anderson">
+</p>
+
+<!--
+How to make this gif ?
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
 
 - 👯Eu procuro colaborar em **projeto de ciência de dados, analise de dados e IA**
 - 👨‍💻 todos os meus projetos estão disponiveis em [https://github.com/Andersonpinaj1](https://github.com/Andersonpinaj1)
