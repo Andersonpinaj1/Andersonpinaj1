@@ -2,20 +2,24 @@
   <img src="https://github.com/Andersonpinaj1/Andersonpinaj1/raw/main/assets/header-github.gif" alt="Oi eu sou anderson">
 </p>
 
-<!--
-How to make this gif ?
-
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
+<h1>Oi <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30" /> !! Eu sou Anderson ! </h1>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👯Eu procuro colaborar em **projeto de ciência de dados, analise de dados e IA**
 - 👨‍💻 todos os meus projetos estão disponiveis em [https://github.com/Andersonpinaj1](https://github.com/Andersonpinaj1)
 - ❔ me pergunte sobre **tecnologia, ciência de dados, analise de dados, e etc; ficarei feliz em ajudar**
 - 📫 fale comigo **andersonpinajr@gmail.com**
 - 📄 saiba mais sobre mim em [https://www.linkedin.com/in/anderson-pina-93955b22a/](https://www.linkedin.com/in/anderson-pina-93955b22a/)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Oi%2C+eu+sou+Anderson;sou+um+Cientista+de+Dados;Sempre+Aprendendo+coisa+Novas)](https://git.io/typing-svg)
+
+ ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
+ <div>
+  <a href="https://github.com/Andersonpinaj1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andersonpinaj1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonpinaj1&layout=compact&langs_count=7&theme=tokyonight"/>
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=Andersonpinaj1&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 
 <details>
   <summary><b>🛠️Algumas linguagens e ferramentas que eu uso</b></summary>
@@ -25,14 +29,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonpinaj1&show_icons=true&locale=en&layout=compact" alt="andersonpinaj1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonpinaj1&show_icons=true&locale=en" alt="andersonpinaj1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonpinaj1&" alt="andersonpinaj1" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andersonpinaj1&label=Profile%20views&color=0e75b6&style=flat" alt="andersonpinaj1" /> </p>
-
+    
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://twitter.com/@andersonpinaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andersonpinaj1" height="30" width="40" /></a>
@@ -40,3 +37,14 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <a href="https://kaggle.com/andersonpina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andersonpina" height="30" width="40" /></a>
 <a href="https://instagram.com/andersonpina.j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andersonpina.j" height="30" width="40" /></a>
 </p>
+    
+ 
+ [![Snake animation](https://github.com/Andersonpinaj1/Andersonpianj1/blob/output/github-contribution-grid-snake.svg)
+    
+ </div>
+    
+ ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views 🕵️‍♀️: <br>
+ <p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/Andersonpinaj1/count.svg"/>
+ </p>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
