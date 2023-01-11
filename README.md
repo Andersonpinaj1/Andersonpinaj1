@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Andersonpinaj1/Andersonpinaj1/raw/main/assets/header-github.gif" alt="Oi eu sou anderson">
-</p>
 
 <h1>Oi <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30" /> !! Eu sou Anderson ! </h1>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -11,7 +8,7 @@
 - 📫 fale comigo **andersonpinajr@gmail.com**
 - 📄 saiba mais sobre mim em [https://www.linkedin.com/in/anderson-pina-93955b22a/](https://www.linkedin.com/in/anderson-pina-93955b22a/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Oi%2C+eu+sou+Anderson;sou+um+Cientista+de+Dados;Sempre+Aprendendo+coisa+Novas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Eu+sou+um+Cientista+de+Dados;Sempre+Aprendendo+coisas+Novas)](https://git.io/typing-svg)
 
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
  <div>
@@ -39,7 +36,10 @@
 </p>
     
  
- [![Snake animation](https://github.com/Andersonpinaj1/Andersonpianj1/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ </p>
     
  </div>
     
