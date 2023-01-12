@@ -1,5 +1,5 @@
 
-<h1>Oi <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30" /> !! Eu sou Anderson ! </h1>
+<h1>Oi <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30" /> Eu sou Anderson! </h1>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👯Eu procuro colaborar em **projeto de ciência de dados, analise de dados e IA**
