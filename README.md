@@ -6,7 +6,7 @@
 - 👨‍💻 Todos os meus projetos estão disponiveis em [https://github.com/Andersonpinaj1](https://github.com/Andersonpinaj1)
 - ❔ Me pergunte sobre **tecnologia, ciência de dados, analise de dados, e etc; ficarei feliz em ajudar**
 - 📫 Fale comigo **andersonpinajr@gmail.com**
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/anderson-pina-93955b22a/](https://www.linkedin.com/in/anderson-pina-93955b22a/)
+- 📄 Saiba mais sobre mim em: [https://www.linkedin.com/in/anderson-pina-93955b22a/](https://www.linkedin.com/in/anderson-pina-93955b22a/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Eu+sou+um+Cientista+de+Dados;Sempre+Aprendendo+coisas+Novas)](https://git.io/typing-svg)
 
